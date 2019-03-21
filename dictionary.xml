@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<wordlist>
+  <word id="0">
+    <wordName>defaultWord</wordName>
+    <wordMeaning>Auto-generated word to initialize a dictionary</wordMeaning>
+  </word>
+  <word id="1">
+    <wordName>nihao</wordName>
+    <wordMeaning>hello</wordMeaning>
+  </word>
+  <word id="2">
+    <wordName>Chris</wordName>
+    <wordMeaning>an English Name</wordMeaning>
+  </word>
+  <word id="3">
+    <wordName>ChrisLan</wordName>
+    <wordMeaning>a handsome boy</wordMeaning>
+  </word>
+  <word id="4">
+    <wordName>UCI</wordName>
+    <wordMeaning>a university in California</wordMeaning>
+  </word>
+  <word id="5">
+    <wordName>add</wordName>
+    <wordMeaning>plus</wordMeaning>
+  </word>
+  <word id="6">
+    <wordName>search</wordName>
+    <wordMeaning>look up</wordMeaning>
+  </word>
+  <word id="7">
+    <wordName>delete</wordName>
+    <wordMeaning>elimination</wordMeaning>
+  </word>
+</wordlist>
